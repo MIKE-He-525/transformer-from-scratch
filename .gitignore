@@ -31,11 +31,6 @@ ENV/
 Thumbs.db
 desktop.ini
 
-# Training outputs (regenerable via flight_price_predictor.py)
-results/
-results_economy/
-results_business/
-
 # Jupyter
 .ipynb_checkpoints/
 
